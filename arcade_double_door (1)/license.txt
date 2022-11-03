@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arcade Double Door
+* source:	https://sketchfab.com/3d-models/arcade-double-door-8bc9471da8f541c19c5aab416da81a2f
+* author:	Liam Moffitt (https://sketchfab.com/divadan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arcade Double Door" (https://sketchfab.com/3d-models/arcade-double-door-8bc9471da8f541c19c5aab416da81a2f) by Liam Moffitt (https://sketchfab.com/divadan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
