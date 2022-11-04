@@ -1,0 +1,11 @@
+Model Information:
+* title:	Q-bert Arcade Cabinet (Cassara Kennedy)
+* source:	https://sketchfab.com/3d-models/q-bert-arcade-cabinet-cassara-kennedy-8e2fd9219acf4918944fb298157ff18d
+* author:	triosstudents (https://sketchfab.com/triosstudents)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Q-bert Arcade Cabinet (Cassara Kennedy)" (https://sketchfab.com/3d-models/q-bert-arcade-cabinet-cassara-kennedy-8e2fd9219acf4918944fb298157ff18d) by triosstudents (https://sketchfab.com/triosstudents) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
