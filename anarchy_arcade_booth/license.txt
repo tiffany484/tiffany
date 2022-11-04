@@ -1,0 +1,11 @@
+Model Information:
+* title:	Anarchy Arcade Booth
+* source:	https://sketchfab.com/3d-models/anarchy-arcade-booth-e11621f616b44886be3e72c1476cd5f2
+* author:	m3org (https://sketchfab.com/m3org)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Anarchy Arcade Booth" (https://sketchfab.com/3d-models/anarchy-arcade-booth-e11621f616b44886be3e72c1476cd5f2) by m3org (https://sketchfab.com/m3org) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
